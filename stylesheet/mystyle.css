@@ -3,3 +3,11 @@ img {
   width: 80%;
   height: auto;
 }
+
+.wrapperz {
+  margin: 55px;
+}
+
+.wrapperz p {
+  line-height: 25px;
+}
